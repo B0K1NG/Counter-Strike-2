@@ -1,0 +1,380 @@
+/* sm */
+@media (min-width: 640px) {
+
+    .video-container-text {
+        padding-top: 10rem;
+    }
+
+    .video-container-text-header {
+        font-size: 0.8rem;
+        width: 30rem;
+    }
+
+    .video-container-text-paragraph {
+        font-size: 1rem;
+        width: 25rem;
+    }
+
+    .game-changer-header,
+    .items-header {
+        font-size: 0.8rem;
+    }
+
+    .game-changer-paragraph {
+        font-size: 0.9rem;
+    }
+
+    .game-changer-box-subIntro-header {
+        font-size: 1.2rem;
+    }
+
+    .game-changer-box-subIntro-paragraph {
+        font-size: 0.8rem;
+    }
+
+    .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 0.9rem;
+    }
+
+    .items-header {
+        font-size: 1rem;
+    }
+    
+}
+
+/* md */
+@media (min-width: 768px) {
+    .news-container {
+        padding-top: 8rem;
+      }
+
+    .video-container-background {
+        width: 80%;
+        height: 30%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .video-container-text {
+        padding-bottom: 15rem;
+    }
+
+    .video-container-text-header {
+        font-size: 1rem;
+        width: 37rem;
+    }
+
+    .video-container-text-paragraph {
+        font-size: 1.3rem;
+        width: 29rem;
+    }
+
+    .game-changer-paragraph,
+    .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 1.1rem;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .game-changer-box-subIntro-header {
+        font-size: 1.4rem;
+    }
+
+    .game-changer-box-subIntro-paragraph {
+        font-size: 1rem;
+    }
+
+    .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 1rem;
+    }
+
+    .items-header {
+        font-size: 1.3rem;
+    }
+
+    .items-subheader {
+        font-size: 1.4rem;
+    }
+
+    .cs2-here-header {
+        font-size: 1.6rem;
+    }
+
+    .cs2-here-paragraph {
+        font-size: 1.1rem;
+    }
+
+    .game-changer-box video,
+  .game-changer-box-invert video {
+    width: 17rem;
+    height: 12rem;
+  }
+
+  .Source-2-video video,
+  .items-video video,
+  .items-image img{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* lg */
+@media (min-width: 1024px) {
+    .video-container-text {
+        padding-top: 12rem;
+    }
+
+    .video-container-text-header {
+        font-size: 1.2rem;
+        width: 43rem;
+    }
+
+    .video-container-text-paragraph {
+        font-size: 1.6rem;
+        width: 35rem;
+    }
+
+    .game-changer-paragraph,
+    .items-paragraph {
+        font-size: 1.35rem;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .game-changer-box-subIntro-header {
+        font-size: 1.55rem;
+    }
+
+    .game-changer-box-subIntro-paragraph {
+        font-size: 1.1rem;
+    }
+
+    .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 1.2rem;
+    }
+
+    .items-header {
+        font-size: 1.5rem;
+    }
+
+    .items-subheader {
+        font-size: 1.5rem;
+    }
+
+    .game-changer-box-subIntro {
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .game-changer-box-subIntro-invert .game-changer-box-subIntro-paragraph {
+        font-size: 1.2rem;
+        width: 90%;
+    }
+
+    .game-changer-box-subIntro-invert {
+        margin-left: 21rem;
+        width: 60rem;
+      }
+
+    .game-changer-box video,
+  .game-changer-box-invert video {
+    width: 20rem;
+    height: 15rem;
+  }
+
+  .here-subbox {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Source-2-video video,
+  .items-video video,
+  .items-image img{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
+/* xl */
+@media (min-width: 1280px) {
+    .news-container {
+        padding-top: 8rem;
+      }
+
+    .video-container-background {
+        width: 70%;
+        height: 30%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .video-container-text {
+        margin-top: 5rem;
+    }
+
+    .video-container-text-header {
+        font-size: 1.3rem;
+        width: 46rem;
+    }
+
+    .video-container-text-paragraph {
+        font-size: 1.7rem;
+        width: 37rem;
+    }
+
+    .game-changer-header {
+        font-size: 1.1rem;
+    }
+
+    .game-changer-paragraph {
+        font-size: 1.33rem;
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .game-changer-box-subIntro-header {
+        font-size: 1.7rem;
+    }
+
+    .game-changer-box-subIntro-paragraph {
+        font-size: 1.25rem;
+    }
+
+    .game-changer-box-subIntro-invert .game-changer-box-subIntro-paragraph {
+        font-size: 1.2rem;
+        width: 90%;
+    }
+
+    .game-changer-box video,
+    .game-changer-box-invert video {
+    width: 40%;
+    margin: 0 auto;
+  }
+
+  .Source-2-video video,
+  .items-video video,
+  .items-image img{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .game-changer-box-subIntro-paragraph {
+    width: 65%;
+  }
+
+  .game-changer-box-subIntro-invert {
+    margin-left: 28rem;
+    width: 50rem;
+  }
+
+  .game-changer-box-subIntro {
+    width: 60%;
+  }
+
+  .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 1.3rem;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .cs2-here-header {
+        font-size: 1.7rem;
+    }
+
+    .cs2-here-paragraph {
+        font-size: 1.5rem;
+    }
+
+    .here-subbox {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .here-subbox {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+    .news-container {
+        padding-top: 8rem;
+      }
+
+    .video-container-text {
+        margin-top: 3rem;
+    }
+
+    .video-container-background {
+        width: 55%;
+        height: 30%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .game-changer-header {
+        font-size: 1.1rem;
+    }
+
+    .game-changer-paragraph {
+        font-size: 1.3rem;
+        width: 60%;
+        margin: 0 auto;
+    }
+
+    .game-changer-box,
+    .game-changer-box-invert {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .Source-2-paragraph,
+    .items-paragraph {
+        font-size: 1.4rem;
+      width: 65%;
+      margin: 0 auto;
+    }
+
+    .Source-2-video video,
+  .items-video video,
+  .items-image img{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .here-subbox {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.game-changer-box-subIntro-paragraph {
+    font-size: 1.1rem;
+}
+
+.game-changer-box-invert video {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .game-changer-box-subIntro-invert {
+    margin-left: 15rem;
+    width: 50rem;
+  }
+
+}

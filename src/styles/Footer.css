@@ -1,0 +1,18 @@
+
+.footer {
+    text-align: center;
+  width: 100%;
+  z-index: 5;
+  padding: 30px 100px;
+  background-color: #55524E;
+}
+
+.footer-info {
+    text-align: center;
+    font-size: 9px;
+    color: #A7A5A5;
+    padding: 0 20px;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}

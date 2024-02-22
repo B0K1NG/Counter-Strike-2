@@ -1,0 +1,120 @@
+/* xs */
+@media (min-width: 475px) {
+.watch-live-content h1 {
+    font-size: 1.4rem;
+}
+
+.watch-live-content p {
+    font-size: 1.1rem;
+}
+
+.experience-container-paragraph {
+    font-size: 0.85rem;
+}
+}
+
+/* sm */
+@media (min-width: 640px) {
+    .livestreams-background img{
+        width: 70%;
+        height: 70%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    .watch-live-content button {
+        font-size: 0.85rem;
+    }
+}
+
+/* md */
+@media (min-width: 768px) {
+    .livestreams-container {
+        padding-top: 5rem;
+    }
+
+    .experience-container-paragraph {
+        font-size: 0.95rem;
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
+/* lg */
+@media (min-width: 1024px) {
+    .livestreams-container {
+        padding-top: 7rem;
+    }
+
+    .watch-live-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row-reverse;
+        margin: 0 1rem;
+    }
+
+    .watch-live-content button {
+        font-size: 1rem;
+        display: block;
+        margin: 0 auto;
+    }
+    a {
+        text-decoration: none;
+    }
+
+    .experience-container-header {
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .experience-container {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+        padding: 1rem;
+        background-color: #2C3F5B;
+    }
+
+    
+}
+
+/* xl */
+@media (min-width: 1280px) {
+    .livestreams-background img{
+        width: 60%;
+    }
+
+    .watch-live-content h1 {
+        font-size: 1.6rem;
+    }
+    
+    .watch-live-content p {
+        font-size: 1.1rem;
+    }
+    
+    .experience-container-paragraph {
+        font-size: 0.9rem;
+    }
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+    .livestreams-background img{
+        width: 50%;
+    }
+
+    .watch-live-content h1 {
+        font-size: 1.8rem;
+    }
+    
+    .watch-live-content p {
+        font-size: 1.3rem;
+    }
+    
+    .experience-container-paragraph {
+        font-size: 1rem; 
+    }
+}

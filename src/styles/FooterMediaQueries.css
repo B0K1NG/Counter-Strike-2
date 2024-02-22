@@ -1,0 +1,28 @@
+
+/* sm */
+@media (min-width: 640px) {
+    .footer-info {
+        font-size: 11px;
+    }
+}
+/* md */
+@media (min-width: 768px) {
+    .footer-info {
+        font-size: 12px;
+    }
+}
+
+
+/* xl */
+@media (min-width: 1280px) {
+    .footer-info {
+        font-size: 13px;
+    }
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+    .footer-info {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,241 @@
+.news-container {
+    padding-top: 16rem;
+  }
+  
+  .video-container-text {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    padding-left: 2rem;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    color: rgb(40, 32, 32);
+    
+    
+  }
+  
+  .video-container-text-header {
+    font-size: 0.55rem;
+    width: 20rem;
+    text-transform: uppercase;
+  }
+  
+  .video-container-text-paragraph {
+    font-size: 0.7rem;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    width: 17rem;
+  }
+  
+    .video-container-background {
+      position: relative;
+      width: 100%;
+      height: 100%;
+    }
+
+  
+  .video-container-background video {
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+    box-shadow: 0 -30px 60px -30px rgba(0, 0, 0, 1), 0 30px 60px -30px rgba(0, 0, 0, 1);
+  }
+
+  .game-changer-header,
+  .game-changer-paragraph {
+    text-align: center;
+  }
+
+  .game-changer-header,
+  .items-header {
+    padding-top: 2rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(77, 71, 71)
+  }
+
+  .game-changer-paragraph {
+    font-size: 0.75rem;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-weight: 300;
+    color: rgb(77, 71, 71)
+  }
+
+  .game-changer-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .game-changer-box-invert {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .game-changer-father {
+  width: 100%;
+  background-color: #1e1e1e;
+  background-image: url("https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/bgGray.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 2rem;
+  
+  }
+
+  .game-changer-box video,
+  .game-changer-box-invert video {
+    width: 12.3rem;
+    height: 100%;
+  }
+
+  .game-changer-box-subIntro-header {
+    font-size: 0.9rem;
+    padding-bottom: 0.4rem;
+    font-weight: bold;
+    color: rgb(77, 71, 71)
+  }
+
+  .game-changer-box-subIntro-paragraph {
+    font-size: 0.65rem;
+    font-weight: 400;
+    color: rgb(77, 71, 71)
+  }
+
+  .Source-2-header {
+    font-size: 0.77rem;
+    padding-bottom: 0.4rem;
+    font-weight: bold;
+    color: rgb(77, 71, 71)
+  }
+
+  .Source-2-paragraph {
+    color: rgb(77, 71, 71)
+  }
+
+  .Source-2-paragraph,
+  .items-paragraph {
+    font-size: 0.7rem;
+    font-weight: 400;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .items-paragraph {
+    color: rgb(175, 162, 162);
+  }
+
+  .Source-2-header,
+  .Source-2-paragraph,
+  .Source-2-video,
+  .items-header,
+  .items-paragraph,
+  .items-video,
+  .items-image,
+  .items-subheader,
+  .cs2-here-header,
+  .cs2-here-paragraph  {
+    text-align: center;
+  }
+
+  .Source-2-video video,
+  .items-video video,
+  .items-image img {
+    padding-top: 1.3rem;
+    width: 90%;
+    height: 90%;
+  }
+
+  .items-header,
+  .cs2-here-header {
+    font-size: 1.3rem;
+    padding-bottom: 0.8rem;
+  }
+
+  .items-subheader {
+    font-size: 1.1rem;
+    padding-bottom: 0.8rem;
+    color: rgb(175, 162, 162);
+  }
+
+  .cs2-here-box {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  background-color: #1e1e1e;
+  background-image: url("https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/bgGray.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 0 2rem;
+  z-index: 100;
+  }
+
+  .cs2-here-header {
+    color: rgb(77, 71, 71);
+    margin-top: 2rem;
+    font-weight: bold;
+  }
+
+  .cs2-here-paragraph {
+    color: rgb(77, 71, 71);
+    margin-bottom: 2rem;
+    font-size: 0.99rem;
+    font-weight: 500;
+  }
+
+  .here-subbox {
+    padding: 0 1rem;
+    border: 1px solid transparent;
+    background-color: #D9D9D9;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .Source-2-box {
+    width: 100%;
+  background-color: #1e1e1e;
+  background-image: url("https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/bgOrange.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  }
+
+  .news-container {
+    width: 100%;
+    background-color: #1e1e1e;
+    background-image: url("https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/bgOrange.svg");
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 0rem;
+    padding-top: 16rem;
+    z-index: -1;
+  }
+
+  .items-box {
+  width: 100%;
+  background-color: #111;
+  background-image: url("https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/cs2/bgDarkBlue.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  padding-bottom: 2rem;
+  }
+
+  .items-header {
+    color: rgb(175, 162, 162)
+  }

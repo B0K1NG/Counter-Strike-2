@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./assets/images/CS2-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center-bottom;
+}
