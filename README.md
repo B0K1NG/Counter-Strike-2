@@ -22,11 +22,11 @@ This website showcases the exciting features and improvements in Counter-Strike 
 
 ## Tech Stack 💻
 
-- Visual Studio Code
 - HTML
 - CSS
 - JavaScript
 - React
+- Visual Studio Code
 - GitHub
 - Git
 
