@@ -6,10 +6,7 @@ Welcome to the official Counter-Strike 2 website! Explore the latest updates, fe
 
 This website showcases the exciting features and improvements in Counter-Strike 2, the popular first-person shooter game developed by Valve and Hidden Path. Discover the reworked sounds, enhanced smoke mechanics, and unified lighting system that make CS2 a unique and immersive gaming experience.
 
-- [CS-2 Home-page](https://ibb.co/PNwqj3n)
-- [CS-2 Updates-page](https://ibb.co/JshnyvS)
-- [CS-2 News-page](https://ibb.co/bBzRxZW)
-- [CS-2 Live Stream-page](https://ibb.co/YhrY61C)
+[![Counter-Strike 2.png](https://i.postimg.cc/gjCBNkMz/image.png)](https://postimg.cc/7JNVLD8d)
 
 
 ## Key Features ✨
